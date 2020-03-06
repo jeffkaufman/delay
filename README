@@ -1,0 +1,3 @@
+$ brew install portaudio
+$ gcc delay.c -Wall -o delay -lportaudio
+$ ./delay
